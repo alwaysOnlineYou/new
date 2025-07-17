@@ -14,8 +14,6 @@
 |必须安装|
 |------|
 |首先，从源代码安装transformers：|
-|pip install git+https://github.com/huggingface/transformers.git|
-
 ```
 pip install git+https://github.com/huggingface/transformers.git
 ```
