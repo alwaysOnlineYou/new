@@ -8,7 +8,9 @@
 |方式二|
 |------|
 |git拉取到ComfyUI目录custom_nodes文件夹下 > 拉取后重启ComfyUI|
-|git clone https://github.com/alwaysOnlineYou/ComfyUI-AlwaysOnline.git|
+```
+git clone https://github.com/alwaysOnlineYou/ComfyUI-AlwaysOnline.git
+```
 
 ## GLM-4V推理节点共有两个：一个是图像反推，另一个是纯文本反推，纯文本反推支持系统角色和用户输入
 |必须安装|
